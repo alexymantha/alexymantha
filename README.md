@@ -7,7 +7,7 @@
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![ArgoCD](https://img.shields.io/badge/-Argo%20CD-000?&logo=Argo)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon%20Web%20Services&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
