@@ -1,7 +1,6 @@
 ### Languages
 
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
 ### Technologies
@@ -15,7 +14,7 @@
 
 ### Personal Setup
 
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000?&logo=Arch%20Linux)
+![Nix OS](https://img.shields.io/badge/-NixOS-000?&logo=NixOS)
 ![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=Neovim)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-000?&logo=Obsidian)
 
