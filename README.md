@@ -1,7 +1,7 @@
 ### Languages
 
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Zig](https://img.shields.io/badge/-Zig-000?&logo=Zig)
 
 ### Technologies
 
@@ -16,7 +16,8 @@
 
 ![Nix OS](https://img.shields.io/badge/-NixOS-000?&logo=NixOS)
 ![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=Neovim)
-![Obsidian](https://img.shields.io/badge/-Obsidian-000?&logo=Obsidian)
+![Ghostty](https://img.shields.io/badge/-Ghostty-000?&logo=Ghostty)
+
 
 <picture>
   <source
